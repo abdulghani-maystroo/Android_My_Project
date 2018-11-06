@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutoComplateTextViewExample</string>
+
+    <string-array name="fruits">
+    <item>برتقال</item>
+        <item>تفاح</item>
+        <item>موز</item>
+        <item>ليم</item>
+        <item>كيوي</item>
+        <item>خوخ</item>
+        <item>بطيخ</item>
+
+
+    </string-array>
+</resources>
